@@ -13,4 +13,4 @@ My favorite show is:
 1. Billions
 - [x] I have now finished Lab 1 of CSE 110
 
-[Back to Top](#-Hello-my-name-is-William-Heng)
+[Back to Top](#Hello-my-name-is-William-Heng)
