@@ -1,6 +1,6 @@
 # Hello my name is William Heng
 ## I am a seconds year CS major at UCSD
-### Check out this pineapple!
+### > Check out this pineapple!
 
 ![pineapple on beach](https://user-images.githubusercontent.com/68254663/230162917-6ebdf6d0-44e2-4afa-a6ce-b69c5d929351.png)
 
