@@ -23,4 +23,4 @@ My favorite show is:
 
 - [x] I have now finished Lab 1 of CSE 110
 
-[Back to Top](#hello-my-name-is-william-heng)
+[Back to pineapple](#check-out-this-pineapple)
